@@ -3,7 +3,8 @@
 ## 命名规范
 ![](../image/命名规范.png)
 ## 开发工具
-`Keil MDK`+`VsCode Keil插件`
+`Keil MDK`+`VsCode Keil插件`----这个当`Keil MDK`这边发生更改后，一定要保存，并关掉，`VsCode`才会生效
+![](../image/vscode插件.png)
 `STM32CubeIDE`
 `CLion插件`
 在寄存器时候，选择Keil MDK
