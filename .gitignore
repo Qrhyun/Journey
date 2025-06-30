@@ -1,0 +1,28 @@
+# 忽略构建目录
+build/
+
+# 忽略VSCode编辑器的配置文件和临时文件
+.vscode/
+*.code-workspace
+*.vsix
+*.vscode
+*.vs
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
+*.vscode
